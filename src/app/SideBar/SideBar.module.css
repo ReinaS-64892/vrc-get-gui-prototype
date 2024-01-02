@@ -1,0 +1,20 @@
+.sideBarAria {
+
+    width: 150px;
+    min-width: 150px;
+    height: 100vh;
+    position: relative;
+    margin-left: 0.5px;
+    margin-right: 0.5px;
+    border-Right: 1px;
+    border-Color: #999999;
+
+    overflow: visible;
+}
+
+.sideBarButton {
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+    width: 100%;
+    text-transform: none;
+}

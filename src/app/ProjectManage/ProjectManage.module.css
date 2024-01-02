@@ -1,0 +1,33 @@
+.ProjectManageRoot {
+    width: 100%;
+    height: 100vh;
+
+    overflow: hidden;
+    display: flex;
+    flex-flow: column;
+}
+
+
+.ProjectManageTopBar {
+
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+
+    height: 3.5rem;
+    border-Color: #999999;
+
+    align-items: center;
+}
+
+.ProjectManageTopBarRight {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    width: 100%;
+}
+
+.ProjectInfoRoot {
+    width: 100%;
+    overflow-y: scroll;
+}
